@@ -41,8 +41,8 @@ const Home = () => {
             searchTerm={searchTerm}
             setSearchTerm={setSearchTerm}
             handleClick={() => {
-              if(searchTerm){
-                router.push(`/search/$(searchTerm)`)
+              if (searchTerm){
+                router.push(`/search/${searchTerm}`)
               }
             }}
           
