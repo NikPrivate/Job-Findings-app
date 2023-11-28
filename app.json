@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "reactive_native_jobs2",
-    "slug": "reactive_native_jobs2"
+    "slug": "reactive_native_jobs2",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d6f07cef-1582-4969-8291-8316738572c0"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d6f07cef-1582-4969-8291-8316738572c0"
+    },
+    "android": {},
+    "ios": {}
   }
 }
